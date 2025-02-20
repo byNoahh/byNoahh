@@ -6,9 +6,9 @@ Ich habe keine aber ich lerne gerade html & CSS und will anfangen Lua zu lernen
 
 #### Languages:
 
-![html](https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-![lua](https://img.shields.io/badge/lua-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![html](https://img.shields.io/badge/html-ED8B00?style=for-the-badge&logo=html&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-3776AB?style=for-the-badge&logo=css&logoColor=white)&nbsp;
+![lua](https://img.shields.io/badge/lua-121011?style=for-the-badge&logo=lua&logoColor=white)
 
 #### Database
 
