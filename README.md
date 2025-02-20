@@ -16,7 +16,7 @@ Ich habe keine aber ich lerne gerade html & CSS und will anfangen Lua zu lernen
 
 #### Tools and Technologies
 
-![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-FCC624?style=for-the-badge&logo=windows&logoColor=black)&nbsp;
 <!-- ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)&nbsp; -->
 
