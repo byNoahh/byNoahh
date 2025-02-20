@@ -29,7 +29,7 @@ Ich habe keine aber ich lerne gerade html & CSS und will anfangen Lua zu lernen
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.discord.com) user: noah1to1
+[<img src="https://img.shields.io/badge/Discord-%2312100E.svg?&style=for-the-badge&logo=kaggle&logoColor=white&color=black" />](https://www.discord.com) <br>user: noah1to1
 </p>
 
 | ------------- | ------------- |
